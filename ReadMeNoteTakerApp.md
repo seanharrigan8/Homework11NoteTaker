@@ -24,13 +24,10 @@ Simply click on the heroku deployment link to achieve full functionality. If dow
 
 Same as above
 
-## Video Walkthrough
-
-[Watch the video walkthrough here]()
 
 ## Contribution
 
-Delte function still to be included. Additional features could be note sorting, color coded designations, and a trash box for temporary/permanent deletions
+Delete function still to be included. Additional features could be note sorting, color coded designations, and a trash box for temporary/permanent deletions
 
 ## Test
 
@@ -40,5 +37,5 @@ Delte function still to be included. Additional features could be note sorting, 
 This project is covered under the MIT license.
 
 ## Questions
-For any questions, please contact me at seanharrigan8@gmail.com or visit my GitHub page at [www.github.com/seanharrigan8](https://github.com/www.github.com/seanharrigan8).
+For any questions, please contact me at seanharrigan8@gmail.com or visit my GitHub page at (https://github.com/www.github.com/seanharrigan8).
 or email me at seanharrigan8@gmail.com.
